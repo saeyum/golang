@@ -13,3 +13,8 @@ Go language use main function to run any code of lines firstly it will execute m
 ****import fmt 
 fmt library is used for  different printing function . 
 so we are starting with our basic programme which is common in all language i.e. hello world(you guys able to find the code here in this repository only ).
+File structure of golang :-
+3 folder we have 
+1. src(will store all the code)
+2.pkg(will store all the intermdeiate objects)
+3.bin(will store all the binaries after compilation)
